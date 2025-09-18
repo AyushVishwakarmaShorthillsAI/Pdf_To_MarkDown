@@ -1,0 +1,433 @@
+
+## [Page 1]
+
+World Journal of Pediatrics (2024) 20:82-91 https://doi.org/10.1007/s12519-022-00652-z
+
+## ORIGINAL ARTICLE
+
+## PACS gene family-related neurological diseases: limited genotypes and diverse phenotypes
+
+Han Zhang 1,2,3 · Kai Gao 1,2,3,4 · Shuang Wang 1,2,3 · Yue-Hua Zhang 1,2,3 · Zhi-Xian Yang 1,2,3 · Ye Wu 1,2,3 · Yu-Wu Jiang 1,2,3,4,5
+
+Received: 28 June 2022 / Accepted: 7 November 2022 / Published online: 16 January 2023 © Children's Hospital, Zhejiang University School of Medicine 2023
+
+## Abstract
+
+Background The PACS gene family has been demonstrated to be related to intracellular vesicular trafficking. The phenotypic manifestations caused by the pathogenic variants of PACS include epilepsy, intellectual disability/developmental delay, and malformations, such as facial abnormalities.
+
+Methods We identified seven new cases with pathogenic or likely pathogenic PACS variants using next-generation sequencing. Detailed information obtained from these patients was analyzed along with that obtained from previously reported patients.
+
+Results With the inclusion of the newly diagnosed cases in this study, 103 cases with PACS gene family-related neurological diseases were reported, of which 43 were PACS2 -related cases and the remaining were PACS1 -related cases. Most patients had seizures, which have been reported to be effectively controlled by several types of anti-seizure medications (ASMs). The most efficacious and frequently prescribed ASMs included sodium valproate (43.3%, 13/30), oxcarbazepine/carbamazepine (26.7%, 8/30), and levetiracetam (20%, 6/30). Almost all patients had intellectual disability/developmental delay. The most common pathogenic missense variants were PACS1 p. Arg203Trp and PACS2 p.Glu209Lys. In addition, we report a patient carrying a likely pathogenic copy number variation (CNV) (de novo heterozygous deletion of chr14:105821380-106107443, 286 kilobase, destroyed part of the furin-binding region domain and the protein structure after it) with more severe and refractory late-onset epilepsy.
+
+Conclusions The clinical phenotypes of the different PACS heterozygous missense variants were similar. The pathogenic variant sites of PACS1 and PACS2 were quite limited but located in different regions. A CNV destroying part of the PACS2 gene might also be pathogenic. These findings may provide an important clue for further functional studies on the pathogenic mechanism of neurological disorders related to the PACS gene family.
+
+Keywords Developmental delay · Epilepsy · Intellectual disability · PACS1 · PACS2
+
+* Yu-Wu Jiang jiangyw@263.net
+
+1 Department of Pediatrics, Peking University First Hospital, No. 1 Xi'an Men Street, West District, Beijing 100034, China
+
+2 Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China
+
+3 Children Epilepsy Center, Peking University First Hospital, Beijing, China
+
+4 Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China
+
+5 Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing, China
+
+## Introduction
+
+The PACS gene family, which has been demonstrated to be involved in intracellular vesicular trafficking, organellar communication and gene expression [1-3], includes two highly homologous genes in humans, PACS1 and PACS2 . Variants of both genes are reportedly associated with neurological disorders. The pathogenic variants of PACS2 are associated with developmental and epileptic encephalopathy type 66 (OMIM #618067). Since 2018 [4], 10 studies have reported a total of 38 cases of PACS2 -related neurological disease [5-14]. Based on the available clinical records, most patients had seizures and intellectual disability (ID)/ developmental delay (DD). Some patients also exhibited
+
+Vol:.(1234567890) 1 3
+
+<!-- image -->
+
+<!-- image -->
+## [Page 2]
+
+World Journal of Pediatrics (2024) 20:82-91
+
+83
+
+structural malformations, such as facial abnormalities. The pathogenic variants of PACS1 are associated with SchuursHoeijmakers syndrome (OMIM #615009). Since 2012 [15], 59 cases of PACS1 -related neurological diseases have been reported, whose chief presentation included facial abnormalities, ID/DD, seizures, and structural malformations [16, 17]. Thus, the clinical phenotypes resulting from the pathogenic variants of PACS1 and PACS2 were similar, but the pathomechanism remains to be elucidated. In this study, we reported six cases of PACS -related neurological disorders, including five cases of PACS2 -related neurological disorder and one case of PACS1 -related neurological disorder. In addition, we report that a CNV (copy number variation) (heterozygous deletion of chr14:105821380-106107443, 286 kilobase) might cause a PACS2 -related disorder. We also collated, summarized, and analyzed all reported cases of PACS gene family-related neurological diseases and our newly diagnosed cases to elucidate the genotypic and phenotypic characteristics of PACS -related neurological disease.
+
+## Methods
+
+## Ethics statement
+
+This study was approved by the Ethical Committee of Peking University First Hospital. The patients' parents provided written informed consent for the publication of their case details. All data were analyzed anonymously.
+
+## Participants
+
+Pathogenic or likely pathogenic variants were identified in seven Chinese patients with epilepsy. All available data, including clinical manifestations, electroencephalography (EEG) findings, brain magnetic resonance imaging (MRI) features, and gene variant information, pertaining to these seven patients and previously reported patients with PACS gene family-related neurological disease were collated. Patients were excluded if they met one of the following conditions: (1) the pathogenicity of the variant was uncertain; (2) the original paper was not written in English or Chinese; and (3) the cases were found in public databases.
+
+## Variation analysis
+
+We collected 5 mL of peripheral venous blood from the patients and their parents. Genomic DNA was extracted for trio-based whole-exome sequencing (WES). The pathogenicity of the variants was predicted using Sorting Intolerant from Tolerant, Polymorphism Phenotyping version 2, combined annotation-dependent depletion, and Mutation Taster. Variants were evaluated against the overall population in the 1000 Genomes Project, GnomAD, and ExAC databases. Pathogenicity was classified using variant classification standards based on the 2015 American College of Medical Genetics and Genomics guidelines. Patients with a suspected causative CNV identified by WES also underwent whole genome sequencing (WGS) to identify the extent of the CNV and analyze its pathogenicity.
+
+## Results
+
+## Phenotypic summary
+
+With the inclusion of the new cases diagnosed in the current study, 43 cases of PACS2 -related neurological diseases and 60 cases of PACS1 -related neurological diseases have been reported to date. Table 1 summarizes the information on all PACS2 -related neurological disease cases, except for those with incomplete clinical data. Seto et al. summarized the information of 52 cases of PACS1 -related neurological disease in 2020 [16], and Tenorio-Castano et al. added seven cases in 2021 [17]. Epilepsy, ID/DD, and structural abnormalities were the chief manifestations of PACS gene family-related neurological diseases.
+
+## Seizures
+
+Seizures were the characteristic and most frequent first symptom of PACS gene family-related diseases. All 28 PACS2 -related patients, whose detailed information was available,  experienced  seizures  as  the  first  symptom, whereas 60% of patients with PACS1 -related neurological diseases had seizures [16]. Focal seizures were the principal seizure type; 59.4% (19/32) of patients with detailed records had focal seizures. Moreover, tonic seizures, generalized tonic -clonic seizures, clonic seizures, and myoclonic seizures were also observed in some patients. Most patients' seizures were easily controlled by anti-seizure medications (ASMs), and 6/22 patients with PACS2 -related neurological diseases (with complete medication data records) had used only one ASM, and 10/22 had used two ASMs. However, detailed records of the seizures were available for only three previously reported patients with PACS1 -related neurological diseases, and the follow-up duration was short. In 2018, Martinez-Monseny et al. reported a patient with c.607C>G (p. Arg203Trp) [18], who experienced seizure onset at 3 years of age and presented with focal seizures that were treated with oral carbamazepine. Both patients carrying c.607C>G (p. Arg203Trp) reported by Hoshino et al.
+
+1 3
+
+<!-- image -->
+## [Page 3]
+
+84
+
+World Journal of Pediatrics (2024) 20:82-91
+
+## Table 1 Detailed data of 28 patients with PACS2 -related neurological diseases
+
+1 3
+
+## Table 1 Detailed data of 28 patients with PACS2 -related neurological diseases
+
+| Others                             | Myopia              | Dextrocardia        | Cryptorchid- ism    | Strabismus          | Strabismus          | Myopia, VSD, cryp-   | torchidism Cryptor- chidism,   | frequent infection, hearing dif- ficulties   | Astigmatism         | Myopia, visual          | impairment              |                      |
+|------------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|----------------------|--------------------------------|----------------------------------------------|---------------------|-------------------------|-------------------------|----------------------|
+| Malnutri- tion                     | -                   | -                   | -                   | -                   | -                   | -                    | -                              |                                              | -                   | -                       |                         | -                    |
+| limb Brain MRI abnormali- ties     | +                   | +                   | +                   | +                   | +                   | -                    | +                              |                                              | -                   | +                       |                         | +                    |
+| Distal abnormali- ties             | +                   | -                   | +                   | -                   | +                   | +                    | -                              |                                              | -                   | -                       |                         | +                    |
+| development Facial abnor- malities | +                   | +                   | +                   | +                   | +                   | +                    | +                              |                                              | +                   | +                       |                         | +                    |
+| Physical Micro- cephaly            | -                   | -                   | -                   | -                   | -                   | -                    | -                              |                                              | -                   | -                       |                         | -                    |
+| ID/DD                              | +                   | +                   | +                   | +                   | +                   | +                    | +                              |                                              | +                   | +                       |                         | +                    |
+| Effective ASM                      | NA                  | VPA                 | CBZ                 | VPA                 | NA                  | NA                   | NA                             |                                              | NA                  | NA                      |                         | NA                   |
+| Last seizure episode               | NA                  | 6 mon               | NA                  | 2 y                 | 10 mon              | 3.5 y                | NA                             |                                              | 2 y                 | NA                      |                         | 5 y                  |
+| Number of ASMs used                | 1                   | 2                   | 1                   | 4                   | 3                   | 1                    | 1                              |                                              | 2                   | 2                       |                         | 1                    |
+| Seizure type                       | Focal               | GTCS                | NA                  | GTCS                | GTCS, clonic        | SE                   | Focal, tonic,                  | clonic                                       | Focal, tonic        | Focal tonic, myoclonic, | GTCS, generalized tonic | Clonic, GTCS         |
+| Epilepsy Age of onset              | 6 d                 | 4 d                 | 4 d                 | 7 d                 | 2 d                 | 2 d                  | 2 d                            |                                              | 2 wk                | 2 d                     |                         | 1 mon                |
+| Sex                                | F                   | F                   | M                   | F                   | M                   | M                    | M                              |                                              | F                   | F                       |                         | M                    |
+| Variant                            | p.Glu209Lys         | p.Glu209Lys         | p.Glu209Lys         | p.Glu209Lys         | p.Glu209Lys         | p.Glu209Lys          | p.Glu209Lys                    |                                              | p.Glu209Lys         | p.Glu209Lys             |                         | p.Glu209Lys          |
+| Case                               | 1. Olson et al. [4] | 2. Olson et al. [4] | 3. Olson et al. [4] | 4. Olson et al. [4] | 5. Olson et al. [4] | 6. Olson et al. [4]  | 7. Olson et al. [4]            |                                              | 8. Olson et al. [4] | 9. Olson et al. [4]     |                         | 10. Olson et al. [4] |
+
+<!-- image -->
+## [Page 4]
+
+World Journal of Pediatrics (2024) 20:82-91
+
+85
+
+(continued)
+
+## Table 1
+
+1 3
+
+| Others                    | Others                 | Astigmatism, frequent ear infec- tions, micropenis, cryptor- chidism, infantile hyper- trophic pyloric stenosis, precocious puberty Short   | head                    | ASD                  | head                    | head           | head                  | head                       | head           | head                 | head                 | ASD                  | head          |
+|---------------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|----------------------|-------------------------|----------------|-----------------------|----------------------------|----------------|----------------------|----------------------|----------------------|---------------|
+| tion                      | Malnutri-              | -                                                                                                                                           | -                       | -                    | -                       | -              | -                     | -                          | -              | -                    | -                    | -                    | -             |
+| Brain MRI abnormali- ties | limb                   | +                                                                                                                                           | +                       | +                    | +                       | +              | +                     | -                          | ±              | -                    | +                    | -                    | -             |
+| Distal abnormali-         | ties                   | +                                                                                                                                           | +                       | -                    | +                       | -              | -                     | -                          | -              | -                    | -                    | -                    | -             |
+| development               | Facial abnor- malities | +                                                                                                                                           | +                       | +                    | +                       | +              | +                     | +                          | +              | +                    | +                    | +                    | -             |
+| Physical Micro- cephaly   |                        | -                                                                                                                                           | -                       | -                    | -                       | -              | -                     | -                          | -              | -                    | +                    | -                    | -             |
+| ID/DD                     |                        | +                                                                                                                                           | +                       | +                    | +                       | +              | +                     | +                          | -              | +                    | +                    | +                    | +             |
+| Effective ASM             | NA                     |                                                                                                                                             | OXC                     | NA                   | LEV LCM                 | CBZ            | CBZ CLB               | TPM ZNS CZP LTG VPA        | CBZ            | VPA                  | VPA LEV              | VPA LEV              | NA            |
+| Last seizure episode      | 2 mon                  |                                                                                                                                             | 3 mon                   | 3 y                  | 4 y                     | 4 mon          | 2 y                   | 9 y                        | 9 mon          | 2 y 3 mon            | 1 y                  | 11 mon               | NA            |
+| Number of ASMs used       | 2                      |                                                                                                                                             | 3                       | 7                    | 4                       | 3              | NA                    | NA                         | NA             | 2                    | 4                    | 2                    | 1             |
+| Seizure type              |                        | Focal, GTCS                                                                                                                                 | Focal tonic- clonic, SE | Focal tonic- clonic, | generalized Tonic, GTCS | Focal → tonic  | Tonic                 | Focal or generalized tonic | LGS Tonic      | Focal, tonic, clonic | Focal                | Tonic                | Focal         |
+| Sex Epilepsy Age of       | onset M                | 1 d                                                                                                                                         | 3 d                     | 2 wk                 | 3 d                     | 2 d            | 2 wk                  | 3 d                        | 3 d            | 7 d                  | 5 d                  | 3 d                  | 3 d           |
+| Variant                   | p.Glu209Lys            | p.Glu209Lys F                                                                                                                               |                         | p.Glu209Lys F        | p.Glu209Lys F           | p.Glu209Lys F  | p.Glu209Lys F         | p.Glu209Lys F              | p.Glu209Lys F  | p.Glu209Lys F        | p.Glu209Lys F        | p.Glu209Lys F        | p.Glu209Lys M |
+|                           | Olson al. [4]          | Olson et al. [4]                                                                                                                            |                         | Olson et al. [4]     | Olson                   | Dentici        |                       | [3]                        | Simmen         |                      |                      |                      | Wu [10]       |
+| Case                      | 11. et                 | 12.                                                                                                                                         |                         | 13.                  | 14. et al. [4]          | 15. et al. [5] | 16. Simmen et al. [3] | 17. Simmen et al.          | 18. et al. [3] | 19. Olson et al. [7] | 20. Olson et al. [7] | 21. Olson et al. [7] | 22. et al.    |
+
+<!-- image -->
+## [Page 5]
+
+86
+
+World Journal of Pediatrics (2024) 20:82-91
+
+(continued)
+
+## Table 1
+
+1 3
+
+Detailed data of other reported cases were not available from published papers. F female, M male, ASM anti-seizure medication, ASD atrial septal defect, VSD ventricular septal defect, NA not available, GTCS generalized tonic-clonic seizure, VPA sodium valproate, CBZ carbamazepine, OXC oxcarbazepine, LEV levetiracetam, LCM lacosamide, VGB vigabatrin, CLB clobazam, TPM topiramate, ZNS zonisamide, CZP clonazepam, LTG lamotrigine, PB phenobarbital, MRI magnetic resonance imaging in 2019 had seizures [19]. Onset of tonic seizures occurred in the neonatal period in one patient, which could be completely controlled by oral phenobarbital; EEG performed during the inter-ictal period showed no abnormalities. In the other patient, seizures developed two days after birth and manifested as apnea, which was completely controlled by oral phenobarbital; the seizures recurred at 2 years and 4 months of age after ASM discontinuation and were treated with oral sodium valproate. In our study, one newly diagnosed patient with PACS1 -related neurological disease presented with focal seizures at four days after birth and was treated with phenobarbital and levetiracetam, and no seizures were observed for up to two months. The patient experienced another seizure episode during discontinuation of phenobarbital and dose reduction of levetiracetam. Sodium valproate and levetiracetam were administered four months after birth, and complete control of the seizures was achieved again. The patient had no seizures from 6 months through 9 years of age, i.e., the present day. Several types of ASMs have been reported to be effective for the treatment of epilepsy. The most efficacious and frequently used ASMs were sodium valproate (43.3%, 13/30), oxcarbazepine/carbamazepine (26.7%, 8/30), and levetiracetam (20%, 6/30). Most patients achieved freedom from seizures. ASMs achieved complete seizure control within 6 months of age in 8 of 24 (33.3%) patients with PACS gene family-related neurological diseases whose complete epilepsy treatment was available (including case 25, who experienced recurrence at 17 years of age, which was controlled by levetiracetam monotherapy), and complete seizure control was achieved within 2 years of age in 18 of 24 (75%) patients. The patients' inter-ictal EEG showed slow background rhythm and abnormal wave discharge. Focal seizures of unknown origin were recorded on EEG in case 25. EEG returned to normal in case 5 one month after complete seizure control.
+
+## Intellectual disability/developmental delay
+
+Almost all patients (88/89) with PACS family gene-related neurological  diseases  had  ID/DD  of  varying  severity. Patients with milder ID/DD (case 25) could graduate from junior high school. At the age of 20 years, this patient could communicate to the bare minimum and imitate others to prepare simple handicrafts. However, his language skills were poor. Patients with more severe ID/DD were likely to have developmental regression and lack self-care ability, language ability, or motor abilities, such as running and jumping.
+
+## Structural abnormalities
+
+Height and weight development were normal in patients with PACS family gene-related neurological diseases. The
+
+| Others             | Newly diag- nosed Newly diag-   | nosed     | Newly diag- nosed   | Newly diag-   | nosed Newly diag-   | nosed       |
+|--------------------|---------------------------------|-----------|---------------------|---------------|---------------------|-------------|
+| Malnutri-          | tion -                          | -         | -                   | -             | +                   | ±           |
+| Brain              | abnormali- ties -               | +         | -                   | -             | -                   | +           |
+|                    | Distal limb abnormali- ties -   | -         | -                   | -             | +                   | -           |
+| development Facial | abnor- malities +               | -         | -                   | -             | +                   | +           |
+| Physical Micro-    | cephaly -                       | -         | -                   | -             | +                   | -           |
+| ID/DD              | +                               | +         | Mild                | +             | Mild                | +           |
+|                    |                                 | OXC       | LEV                 |               | OXC                 | VPA         |
+|                    | VPA                             |           |                     | VPA           |                     |             |
+| Effective          | ASM                             | VPA       | VPA                 | PB            | LEV                 | VGB         |
+|                    | Last seizure episode 1 y 4 mon  | 1 y 1 mon | 17 y                | 1 y 9 mon     | 4 mon               | 13 mon      |
+|                    | Number of ASMs used 1           | 2         | 2                   | 2             | 2                   | 3           |
+| Seizure type       | Focal, GTCS                     | Focal     | Focal               | Focal         | Focal               | Tonic       |
+|                    |                                 |           | mon                 |               | mon 7 d             |             |
+| Epilepsy Age of    | onset 3 d                       | 3 d       | <1                  | 2 d           | 1                   | 3 d         |
+| Sex                | M                               | F         | M                   | F             | F                   | M           |
+|                    |                                 |           | p.Glu209Lys         | p.Glu209Lys   |                     | p.Glu211Lys |
+|                    | p.Glu209Lys                     |           |                     |               | p.Glu209Lys         |             |
+| Variant            | p.Glu209Lys                     |           |                     |               |                     |             |
+| Case               | 23.                             | 24.       | 25.                 | 26.           | 27.                 | 28. Wan     |
+
+<!-- image -->
+## [Page 6]
+
+World Journal of Pediatrics (2024) 20:82-91
+
+87
+
+most common physical malformations were facial abnormalities, as observed in 96.6% (86/89) of patients, which were characterized by orbital hypertelorism, narrow palpebral fissures, low and flat nasal bridges, spherical nasal tips, low-set ears, thin lips, and micrognathia. Some patients had microcephaly and dysplasia of the distal limbs (fingers and toes). Abnormal neuroimaging findings were observed in most patients: 60.7% (17/28) of patients with PACS2 -related neurological diseases exhibited abnormal findings on brain MRI, which included widening of the subarachnoid space, cerebellar dysplasia, and dysplasia of the corpus callosum. However, patients with PACS1 -related neurological diseases often present with cerebellar vermis dysplasia on brain MRI. Several patients had other malformations. Cardiac structural abnormalities [16], such as atrial septal defect (ASD), bicuspid aortic valve, aortic constriction, aorto-pulmonary dilatation, aortic valve dysplasia, pulmonary valve dysplasia, patent ductus arteriosus, patent foramen ovale, persistent left superior vena cava, and ventricular septal defect (VSD), were observed in 42% of patients with PACS1 -related neurological diseases; 21% had skull deformities or microcephaly; 33% had ocular abnormalities, which manifested as astigmatism, strabismus, myopia, hyperopia, and optic disk irregularity; and 7.7% had structural abnormalities of the urinary tract, which manifested as duplex kidney, extra-renal pelvis, and posterior urethral compartment. Some patients had other structural abnormalities, such as cryptorchidism, congenital diaphragmatic hernia, and pulmonary dysplasia. Abnormalities have also been reported in PACS2 -related diseases. The patients could present with cardiovascular abnormalities, such as ASD, VSD, and dextrocardia and ocular disorders, such as myopia, strabismus, and astigmatism.
+
+## Genotype summary
+
+Forty-three of the 103 reported patients with PACS gene family-related neurological diseases carried pathogenic variants of PACS2 , while 60 carried pathogenic variants of PACS1 . Forty-two of 43 (97.7%) patients with PACS2 -related neurological diseases carried a missense variant, c.625G>A (p. Glu209Lys), 1/43 patient (case 28) carried a missense variant, c.607C>G (p.Glu211Lys). A total of 59/60 (98.3%) patients with PACS1 -related neurological diseases carried the same type of missense variant c.607C>G (p. Arg203Trp), and one carried another missense variant c.608G>A (p.Arg203Gln).
+
+The sites of pathogenic variation in the PACS1 and PACS2 proteins were quite localized (Fig. 1). The pathogenic variants of PACS1 were missense variants involving Arg203. Arg203 was located in the furin-binding region (FBR), and missense variation in this amino acid may have affected the recognition or binding between the PACS1 protein and the cargo. The pathogenic point variants of PACS2
+
+were also missense variants, resulting in the substitution of the acidic amino acid glutamate for the basic amino acid lysine. The variant amino acids were located in the middle region (MR), which plays a major regulatory role. The variant amino acids were all adjacent to the auto-regulatory area of the MR, with Glu209 being the last amino acid in the auto-regulatory region.
+
+## Patient carrying chr14:105821380-106107443 heterozygous deletion
+
+Only one patient with a de novo heterozygous deletion was identified. The clinical phenotype of this patient differed considerably from that of the other patients. The disease history was characterized by late onset. The patient had essentially normal development until 1 year of age without seizures. DD occurred at approximately 1 year of age, and focal and tonic seizures developed from the ages of 1 year and 5 months. The severity of seizures was greater, status epilepticus was a common occurrence, and the administration of sedative drugs was needed. The patient had refractory epilepsy and had used four ASMs. No seizure episodes occurred for up to one year during the administration of oxcarbazepine and levetiracetam. The patient experienced seizures one month before the last follow-up, and drug titration was underway to obtain the optimal pharmacotherapeutic regimen. The patient's facial abnormalities were similar to those of other patients with PACS gene family-related neurological diseases.
+
+Our study is the first to report that a heterozygous deletion, chr14:105821380-106107443 (286 kilobase), might be associated with the pathogenesis of PACS -related neurological disease. Trio-WES and CNV sequencing revealed that he carried this de novo CNV, and we performed WGS, which confirmed that he carried a heterozygous deletion measuring 286 kilobases in length (chr14:105821380-106107443) (Fig.  2a).  This  fragment  contained PACS2 , C14orf80 , CRIP1 , CRIP2 , IGHA2 , IGHE , IGHG4 , MTA1 , TEX22 , and TMEM12 1. This CNV destroyed part of the FBR and the protein structure after it (Fig. 2b). This heterozygous deletion has not been reported in the Database of Genomic Variants. Karyotype analysis yielded normal results. TrioWES and WGS did not reveal any other pathogenic variants associated with this phenotype.
+
+## Discussion
+
+In humans, the PACS family includes the PACS1 and PACS2 genes. The pathogenic variants of both genes are associated with neurological diseases with similar clinical manifestations, chief of which are epilepsy, ID/DD of varying
+
+1 3
+
+<!-- image -->
+## [Page 7]
+
+88
+
+World Journal of Pediatrics (2024) 20:82-91
+
+Fig. 1 Comparison of PACS1 and PACS2 protein structures and variant sites. ARR atrophin-1-related  region, FBR furin-binding  region, MR middle region, CTR C-terminal region
+
+p.Arg203Trp
+
+117
+
+226
+
+479
+
+963
+
+PACSI
+
+ARR
+
+FBR
+
+MR
+
+CTR
+
+p.Arg2o3GIn
+
+p.Glu2O9Lys
+
+PACS2
+
+FBR
+
+MR
+
+CTR
+
+179
+
+467
+
+889
+
+severity, and structural abnormalities. Epilepsy is the most common first symptom, which mainly presents as focal seizures and could be associated with a variety of seizure types and status epilepticus. Seizures are easily controlled in most patients, and seizure freedom can be achieved by ASMs in infancy. The most efficacious and frequently used ASMs were sodium valproate, oxcarbazepine/carbamazepine, and levetiracetam. In these cases, the choice of ASM was usually based on the type of seizure. Broad-spectrum ASMs, such as sodium valproate and levetiracetam, are commonly used. Several cases were characterized by focal seizures and were therefore treated with oxcarbazepine/carbamazepine. The choice of pharmacotherapy is usually not based on the causative gene because PACS -related seizures are usually easy to control. Some patients had started to use effective ASMs before the causative gene was identified. Almost all patients had facial abnormalities, and some even had abnormal brain MRI findings, microcephaly, and multiple visceral structural malformations. However, the phenotype of the patient with heterozygous deletion of chr14:105821380-106107443 diagnosed in our study differed from that of patients with other PACS2 -related neurological diseases. This patient had more severe and refractory epilepsy of later onset, in addition to frequent episodes of status epilepticus. The facial abnormalities and microcephaly observed in this patient were similar to those of the other patients.
+
+PACS1 and PACS2 are highly homologous [1], and both are derived from the prevertebrate PACS gene. Both genes have been implicated in intracellular vesicular trafficking [20]. PACS1 localizes cargo to the trans-Golgi network, whereas PACS2 is involved in vesicular transport from the Golgi to the endoplasmic reticulum (ER) and ER to the Golgi, cell membranes, mitochondria, and other pathways. Currently, PACS2 is also considered to be related to apoptosis, autophagy and other pathways [1-3]. PACS1 and PACS2 (also called PACS-1 and PACS-2) both contain three regions [20], viz. the FBR, MR, and C-terminal region (CTR). The
+
+1 3
+
+FBR, which is the functional domain, possesses the highest degree of homology and is involved in recognition and binding between the proteins and the cargo. The MR contains nuclear localization signals and phosphorylation sites, which play a regulatory role in the function of the PACS, while the specific function of CTR remains unclear. The two prevalent pathogenic variants of PACS1 were missense mutations involving Arg203. Arg203 is located in the FBR, and the missense variation in this amino acid may have affected recognition or binding between the PACS1 protein and the cargo. Both variants affected the same CpG dinucleotide. Studies in zebrafish have suggested a dominant-negative or gain-of-function patho-mechanism in PACS1 -related neurological disorders [15, 21]. The two pathogenic point variants in PACS2 were one amino acid apart; both involved switching of glutamate to lysine, resulting in remarkably similar clinical phenotypes, suggesting a similar pathogenic mechanism. Both variants were located in the MR, i.e., the regulatory domain, with Glu209 being the last amino acid in the auto-regulatory region. The presence of two indels in this region suggests that the structure near this site may be highly relevant for the regulatory function of PACS2. Co-immunoprecipitation analysis showed that the PACS2 p. Glu209Lys reduced the reversibility of FBR binding to client proteins, which may disturb cellular function [4]. This finding indicated that, in contrast to PACS1 , the missense variants of PACS2 may be loss-of-function. On the other hand, the loss-of-function constraint measure of PACS2 was 0.279 according to the GnomAD database, which suggested that the PACS2 gene is less resistant to loss-of-function variants.
+
+We reported a patient with a heterozygous deletion of chr14:105821380-106107443. This fragment contained PACS2 , C14orf80 , CRIP1 , CRIP2 , IGHA2 , IGHE , IGHG4 , MTA1 , TEX22 , and TMEM12 1; however, none of the other genes, except PACS2 , has been reported to be associated with epilepsy or ID/DD, and only PACS2 , CRIP1 , and MTA1 are expressed in the central nervous system. This CNV
+
+<!-- image -->
+
+<!-- image -->
+## [Page 8]
+
+World Journal of Pediatrics (2024) 20:82-91
+
+89
+
+Fig. 2 The  heterozygous  deletion  we  reported. a WGS  detected  a heterozygous deletion of chr14:105821380-106107443 (286.06 kilobase); b this  CNV  caused  deletion  of  a  partial  segment  of  PACS2,
+
+number
+
+Log2ratio
+
+Z score
+
+2.58
+
+P =0.01
+
+10
+
+32
+
+42
+
+53
+
+75
+
+85
+
+96
+
+107 (Mb)
+
+Chr1 4
+
+b
+
+PACS2
+
+FBR
+
+MR
+
+CTR
+
+37
+
+179
+
+467
+
+889
+
+Heterozygous deletion
+
+Copy
+
+Gap
+
+destroyed part of the FBR domain and the protein structure after it, which might significantly affect protein function, and therefore, we believe that this variant causes neurological disease mainly through its effect on PACS2 . This microdeletion might be loss-of-function-like missense variants. However, more functional studies are needed. In 2012, Holder Jr et al. reported one patient carrying a 0.31-Mb microdeletion of chromosome 14q32.33 who presented with epilepsy, DD, and facial dysmorphism [22]. However, the pathogenicity could not be determined because they only performed CGH array and fragile X testing, and they did not analyze the segregation of the microdeletion in the family. The clinical phenotype of the patient with heterozygous deletion of chr14:105821380-106107443 diagnosed in our study may be different from that of patients with other PACS2 -related neurological diseases. Does this suggest that PACS2 protein dose dependence in humans is related to developmental period? These findings may provide clues to elucidate the pathogenic mechanism and the precise treatment of including  half  of  the  FBR  and  the  latter. WGS whole  genome sequencing, CNV copy number variation, FBR furin-binding region, MR middle region, CTR C-terminal region
+
+PACS2 -related neurological diseases, although they require subsequent functional research. However, a patient with a heterozygous deletion of chr14:105821380-106107443 experienced later onset of epilepsy and severe disease. Hence, the possible pathogenic contribution of other genes in the fragment showing high expression in the nervous system, including CRIP1 and MTA1 , to the epileptic phenotypes or refractory mechanisms still cannot be discounted.
+
+In conclusion, this study reported one newly diagnosed patient with PACS1 and five patients with PACS2 -related neurological disease in a Chinese population and reported that  the  heterozygous  deletion  of  chr14:105821380106107443 might cause PACS2 -related disorders. We summarized the clinical phenotypes and genotypes of the cases diagnosed over the course of this study and those of previously reported cases and found that epilepsy and structural changes associated with heterozygous missense variants in all PACS family genes were similar. Patients carrying heterozygous deletions in the PACS2 gene have
+
+1 3
+
+<!-- image -->
+
+<!-- image -->
+## [Page 9]
+
+90
+
+World Journal of Pediatrics (2024) 20:82-91
+
+a more severe neurological phenotype than those with other PACS2 -related neurological diseases. The pathogenic mutation sites in the PACS family genes are quite limited, but the functional domains where the common mutations of PACS1 and PACS2 genes are located are different, viz. the FBR (the main functional domain) and MR (the regulatory domain), respectively. However, we could not explain the mechanism underlying the variations in the severity of the clinical phenotypes and high concentrations of PACS1 and PACS2 pathogenic variants in patients carrying the same PACS2 pathogenic variants. This suggests a need for further investigation with a larger sample size and further analysis into the genetic background, relationship between phenotype and environment, and biological function. Our findings have provided an important cornerstone for further functional studies and research on the pathogenic mechanisms of associated neurological diseases, in addition to useful clues for future precision treatment studies.
+
+Acknowledgements The authors thank the patients mentioned in the article and their families for the clinical information they provided and their contribution to scientific research.
+
+Author contributions ZH and GK contributed equally to this manuscript and they were co-first authors. ZH contributed to study design, collection, evaluation and interpretation of the data, and drafting and writing of the manuscript. WS, ZYH, YZX, and WY contributed to collection, evaluation and interpretation of the data. GK and JYW contributed to study design, collection, evaluation and interpretation of the data, and revised the manuscript and approved the final version.
+
+Funding This work was supported by the National Key Research and Development Program of China (No. 2020YFA0804000), the National Natural Science Foundation of China (Nos. 81971211, 12026606, and 81601131), Key Project of Clinical Medicine Research of National Clinical  Research  Center  for  Child  Health  and  Disorders,  Children's Hospital of Chongqing Medical University (No. NCRCCHD2021-KP-02), Beijing Natural Science Foundation (No. 7212109), the Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases (No. BZ0317), the Capital Health Research and Development of Special Fund (No. 2020-1-4071), National High Level Hospital Clinical Research Funding (Scientific Research Seed Fund of Peking University First Hospital) (No. 2022SF29), and the Fundamental Research Funds for the Central Universities (Nos. BMU2017JI002, BMU2018XY006, and PKU2017LCX06). The funding agencies had no role in the study design, the experiments, analysis, or interpretation of data, the writing of the report, or the decision to submit the article for publication.
+
+Data availability Most data generated or analyzed during this study are included in this published article. Other data are available from the corresponding author on reasonable request.
+
+## Declarations
+
+Ethical approval This study was approved by the Ethical Committee of Peking University First Hospital. The individuals' parents in this manuscript had given written informed consent to publish these cases details. All data were analyzed anonymously.
+
+1 3
+
+Conflict  of  interest Author  Yu-Wu  Jiang  is  a  member  of  Editorial Board for World Journal of Pediatrics . The paper was handled by the other Editor and has undergone rigorous peer review process. Author Yu-Wu Jiang was not involved in the journal's review of, or decisions related to this manuscript. All authors declared no financial or nonfinancial conflict of interests related to this paper.
+
+## References
+
+Li C, Li L, Yang M, Zeng L, Sun L. PACS-2: a key regulator of mitochondria-associated membranes (MAMs). Pharmacol Res. 2020;160:105080.
+
+Wan L, Molloy SS, Thomas L, Liu G, Xiang Y, Rybak SL, et al. PACS-1 defines a novel gene family of cytosolic sorting proteins required for trans-Golgi network localization. Cell. 1998;94:205-16.
+
+Simmen T, Aslan JE, Blagoveshchenskaya AD, Thomas L, Wan L, Xiang Y, et al. PACS-2 controls endoplasmic reticulum-mitochondria communication and Bid-mediated apoptosis. EMBO J. 2005;24:717-29.
+
+Olson HE, Jean-Marçais N, Yang E, Heron D, Tatton-Brown K, van der Zwaag PA, et al. A recurrent de novo PACS2 heterozygous missense variant causes neonatal-onset developmental epileptic encephalopathy, facial dysmorphism, and cerebellar dysgenesis. Am J Hum Genet. 2018;102:995-1007.
+
+Dentici ML, Barresi S, Niceta M, Ciolfi A, Trivisano M, Bartuli A, et al. Expanding the clinical spectrum associated with PACS2 mutations. Clin Genet. 2019;95:525-31.
+
+Mizuno T, Miyata R, Hojo A, Tamura Y, Nakashima M, Mizuguchi T, et al. Clinical variations of epileptic syndrome associated with PACS2 variant. Brain Dev. 2021;43:343-7.
+
+Olson HE, Jean-Marçais N, Yang E, Heron D, Tatton-Brown K, van der Zwaag PA, et al., A recurrent de novo PACS2 heterozygous missense variant causes neonatal-onset developmental epileptic encephalopathy, facial dysmorphism, and cerebellar dysgenesis. Am J Hum Genet. 2018;103:631.
+
+Terrone G, Marchese F, Vari MS, Severino M, Madia F, Amadori E, et al. A further contribution to the delineation of epileptic phenotype in PACS2 -related syndrome. Seizure. 2020;79:53-5.
+
+Zhu T, Gong X, Bei F, Ma L, Chen Y, Zhang Y, et al. Application of next-generation sequencing for genetic diagnosis in neonatal intensive care units: results of a multicenter study in China. Front Genet. 2020;11:565078.
+
+Wu MJ, Hu CH, Ma JH, Hu JS, Liu ZS, Sun D. Early infantile epileptic encephalopathy caused by PACS2 gene variation: three cases report and literature review. Zhonghua Er Ke Za Zhi. 2021;59:594-9 ( in Chinese ).
+
+Wang T, Hoekzema K, Vecchio D, Wu H, Sulovari A, Coe BP, et al. Large-scale targeted sequencing identifies risk genes  for  neurodevelopmental  disorders.  Nat  Commun. 2020;11:4932.
+
+Monies D, Abouelhoda M, Assoum M, Moghrabi N, Rafiullah R, Almontashiri N, et al. Lessons learned from large-scale, first-tier clinical exome sequencing in a highly consanguineous population. Am J Hum Genet. 2019;104:1182-201.
+
+Jiang T, Gao J, Jiang L, Xu L, Zhao C, Su X, et al. Application of trio-whole exome sequencing in genetic diagnosis and therapy in Chinese children with epilepsy. Front Mol Neurosci. 2021;14:699574.
+
+Bruel AL, Nambot S, Quéré V, Vitobello A, Thevenon J, Assoum M, et al. Increased diagnostic and new genes identification outcome using research reanalysis of singleton exome sequencing. Eur J Hum Genet. 2019;27:1519-31.
+
+Schuurs-Hoeijmakers JH, Oh EC, Vissers LE, Swinkels ME, Gilissen C, Willemsen MA, et al. Recurrent de novo mutations in
+
+<!-- image -->
+## [Page 10]
+
+World Journal of Pediatrics (2024) 20:82-91
+
+91
+
+PACS1 cause defective cranial-neural-crest migration and define a recognizable intellectual-disability syndrome. Am J Hum Genet. 2012;91:1122-7.
+
+Seto MT, Bertoli-Avella AM, Cheung KW, Chan KY, Yeung KS, Fung JL, et al., Prenatal and postnatal diagnosis of Schuurs-Hoeijmakers syndrome: case series and review of the literature. Am J Med Genet A. 2021;185:384-9.
+
+Tenorio-Castaño J, Morte B, Nevado J, Martinez-Glez V, Santos-Simarro F, García-Miñaúr S, et al. Schuurs-Hoeijmakers syndrome ( PACS1 neurodevelopmental disorder): seven novel patients and a review. Genes (Basel). 2021;12:738.
+
+Martinez-Monseny A, Bolasell M, Arjona C, Martorell L, Yubero D, Arsmtrong J, et al. Mutation of PACS1 : the milder end of the spectrum. Clin Dysmorphol. 2018;27:148-50.
+
+Hoshino Y, Enokizono T, Imagawa K, Tanaka R, Suzuki H, Fukushima H, et al. Schuurs-Hoeijmakers syndrome in two patients from Japan. Am J Med Genet A. 2019;179:341-3.
+
+Thomas G, Aslan JE, Thomas L, Shinde P, Shinde U, Simmen T. Caught in the act-protein adaptation and the expanding roles of
+
+the PACS proteins in tissue homeostasis and disease. J Cell Sci. 2017;130:1865-76.
+
+Miyake N, Ozasa S, Mabe H, Kimura S, Shiina M, Imagawa E, et al. A novel missense mutation affecting the same amino acid as the recurrent PACS1 mutation in Schuurs-Hoeijmakers syndrome. Clin Genet. 2018;93:929-30.
+
+Holder JL Jr, Lotze TE, Bacino C, Cheung SW. A child with an inherited 0.31 Mb microdeletion of chromosome 14q32.33: further delineation of a critical region for the 14q32 deletion syndrome. Am J Med Genet A. 2012;158A:1962-6.
+
+Publisher's  Note Springer  Nature  remains  neutral  with  regard  to jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+1 3
+
+<!-- image -->
