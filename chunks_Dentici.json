@@ -1,0 +1,1326 @@
+{
+  "document_info": {
+    "pdf_name": "Dentici.pdf",
+    "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+    "authors": [],
+    "processed_at": "2025-09-16T14:48:56.548857",
+    "total_chunks": 41,
+    "max_chunk_size": 1024,
+    "pages_with_table": [
+      4,
+      5,
+      6
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "Received: 10 November 2018 Revised: 10 January 2019 Accepted: 23 January 2019 DOI: 10.1111/cge.13516",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": null,
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [],
+        "char_count": 100,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "Maria L. Dentici 1 | Sabina Barresi 2 | Marcello Niceta 2 | Andrea Ciolfi 2 | Marina Trivisano 3 | Andrea Bartuli 4 | Maria C. Digilio 1 | Nicola Specchio 3 | Bruno Dallapiccola 2 | Marco Tartaglia 2 1 Medical Genetics, Academic Department of Pediatrics, Ospedale Pediatrico Bambino Gesù, Rome, Italy 2 Genetics and Rare Diseases Research Division, Ospedale Pediatrico Bambino Gesù, Rome, Italy 3 Rare and Complex Epilepsy Unit, Department of Neuroscience and Neurorehabilitation, Ospedale Pediatrico Bambino Gesù, Rome, Italy 4 Rare Disease and Medical Genetics, Academic Department of Pediatrics, Ospedale Pediatrico Bambino Gesù, Rome, Italy",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "Expanding the clinical spectrum associated with PACS2 mutations"
+        ],
+        "char_count": 644,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "Maria L. Dentici, Medical Genetics, Academic Department of Pediatrics, Ospedale Pediatrico Bambino Gesù, Viale di San Paolo, 15, 00146 Rome, Italy. Email: marialisa.dentici@opbg.net",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "Correspondence",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "Correspondence"
+        ],
+        "char_count": 181,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "Italian Ministry of Health; Fondazione Bambino Gesù",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "Funding information",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "Funding information"
+        ],
+        "char_count": 51,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "The peer review history for this article is available at https://publons.com/publon/ 10.1111/cge.13516/",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "Peer Review",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "Peer Review"
+        ],
+        "char_count": 103,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "Latest advances in genome analysis have significantly enabled the discovery of molecular defects underlying neurodevelopmental disorders (NDDs), a clinically heterogeneous group of rare diseases presenting with central nervous system (CNS) malformations often associated with developmental and epileptic encephalopathies (DEEs). 1 -6 Among the genes that have recently been implicated in DEEs, PACS1 (phosphofurin acid cluster sortin protein 1, OMIM 607492) , encoding a trans -Golgi-membrane traffic regulator highly expressed during human embryonic brain development, has been implicated in SchuursHoeijmakers syndrome (OMIM 615009), a dominantly inherited DEE Maria L. Dentici and Sabina Barresi contributed equally to this work. © 2019 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd Whole exome sequencing (WES) has led to the understanding of the molecular events affecting neurodevelopment in an extremely diverse clinical context, including diseases with intellectual disability (ID) associated with variable central nervous system (CNS) malformations, and developmental and epileptic encephalopathies (DEEs).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "1 | I NTRODUCTION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "1 | I NTRODUCTION"
+        ],
+        "char_count": 1127,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "Recently, PACS2 mutations have been causally linked to a DEE with cerebellar dysgenesis and facial dysmorphism. All known patients presented with a recurrent de novo missense mutation, c.625G]A (p.Glu209Lys). Here, we report on a 7-year-old boy with DEE, cerebellar dysgenesis, facial dysmorphism and postnatal growth delay, apparently not fitting with any recognized disorder. WES disclosed a de novo novel missense PACS2 variant, c.631G]A (p.Glu211Lys), as the molecular cause of this complex phenotype. We provide a detailed clinical characterization of this patient, and analyse the available clinical data of individuals with PACS2 mutations to delineate more accurately the clinical spectrum associated with this recently described syndrome. Our study expands the clinical and molecular spectrum of PACS2 mutations.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "1 | I NTRODUCTION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "1 | I NTRODUCTION"
+        ],
+        "char_count": 821,
+        "sentence_count": 6,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "Overview of the available clinical data allow to delineate the condition associated with PACS2 mutations as a variable trait, in which the key features are represented by moderate to severe ID, cerebellar dysgenesis and other CNS malformations, reduced growth, and facial dysmorphism.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "1 | I NTRODUCTION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "1 | I NTRODUCTION"
+        ],
+        "char_count": 284,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "cerebellar dysgenesis, developmental and epileptic encephalopathy, facial dysmorphism, growth deficiency, PACS2 with recognizable gestalt and brain structural abnormalities. 7 So far, all reported patients share de novo missense changes affecting the same amino acid (p.Arg203Trp; p.Arg203Gln). 7 -10 Arg203 is highly conserved among orthologs, as well as in the paralog, PACS2 (OMIM 610423). Remarkably, a recurrent de novo heterozygous missense variant in PACS2 was more recently found in 14 unrelated individuals presenting with an NDD partially overlapping with the PACS1 -related phenotype. 11 All patients presented with a recurrent missense mutation, c.625G]A (p.Glu209Lys), and had early-onset epilepsy with focal and generalized seizures, global developmental delay and autistic features, cerebellar dysgenesis and dysmorphic facial appearance.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "KEYWORDS",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "KEYWORDS"
+        ],
+        "char_count": 853,
+        "sentence_count": 2,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "Here we report on a child with DEE, in whom WES analysis disclosed a novel de novo pathogenic missense variant of PACS2 involving Clinical Genetics. 2019;95:525 -531. wileyonlinelibrary.com/journal/cge <!-- image --] <!-- image --] DENTICI ET AL. 13990004, 2019, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/cge.13516 by NHS Education for Scotland NES, Edinburgh Central Office, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License the same functional domain that was previously reported in other affected individuals. Our findings expand the phenotypic spectrum of this novel disease and confirm the occurrence of a mutational hot-spot in PACS2-associated DEE.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 1,
+        "current_heading": "KEYWORDS",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "KEYWORDS"
+        ],
+        "char_count": 858,
+        "sentence_count": 3,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "The 7-year-old male was the only child of non-consanguineous parents. Family history was unremarkable. Pregnancy was uneventful until the 35th week, when an ultrasound scan disclosed bilateral ventriculomegaly. Delivery was at 38 weeks, by Caesarian section because of breech presentation. Birth weight was 3040 g (25-50th centile), length 49 cm (25th centile), and occipito-frontal circumference (OFC) 35.5 cm (75th centile). At 3 days of life, respiratory distress and epilepsy were recorded, with seizures characterized by impairment of consciousness and upward rolling of the eyes. An electroencephalogram (EEG) at onset showed epileptiform abnormalities in both central regions. Phenobarbital was started with seizures remission, but reduction of drug after 1 month of treatment caused reappearance of seizures characterized by left upper limb hypertonia and blank staring followed by inconsolable crying.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "2 | CASE REPORT",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "2 | CASE REPORT"
+        ],
+        "char_count": 910,
+        "sentence_count": 8,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "Therefore, vigabatrin and valproic acid were started with good control of the seizures (only one episode at age 13 months). Since no other episodes were further referred, both drugs were gradually discontinued at 6 years. Ophthalmologic evaluation and echocardiogram were normal. Brain magnetic resonance imaging (MRI), at age 27 months and at age 3 years and 10 months (Figure 1D-G), revealed an abnormal cerebellar foliation pattern along the basal and posterior portions of the right cerebellum hemisphere, quantitative reduction of the parietal region white matter in the supratentorial region, hyperintensity of the centrum semiovale in the frontal region, bilateral posterior periventricular white matter reduction and lateral ventricles asymmetry with prevalence of the right posterior horn. Global motor skills were delayed. He walked unsupported at 2 years and at 7 years, verbal speech was limited to a few words and he required assistance in hygiene and dressing.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "2 | CASE REPORT",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "2 | CASE REPORT"
+        ],
+        "char_count": 974,
+        "sentence_count": 6,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "He still presented problems with chewing and dysphagia. Cognitive assessment (WISC-IV scale) revealed a total IQ of 47 (processing speed, 50; working memory, 64; perceptual reasoning, 67; verbal comprehension, 58). Because of a reduced growth velocity, growth hormone (GH) stimulation testing with clonidine and arginine was performed at 6 years, which revealed a GH peak of 4.09 and 2.40 ng/mL, respectively. Thus, GH treatment was started at 6 years because of a reduced growth velocity (Saizen, 0.5 mg for 6 days/week). At age 7, endocrinology work up revealed thyroid stimulating hormone: 2.78 μ IU/mL (n.v.: 0.64-6.27), free T4: 1.12 ng/dL (n.v.: 0.89-1.76) and insulin-like growth factor 1: 63.4 ng/mL (n.v. 55-222). Brain MRI revealed no pituitary abnormalities and last EEG were normal. At the last evaluation (7 years), growth parameters disclosed short stature (105 cm, -3.2 SD), low weight (18.5 kg, -1.9 SD), and relative macrocephaly (OFC: 51.5 cm, 50-75th centile).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "2 | CASE REPORT",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "2 | CASE REPORT"
+        ],
+        "char_count": 979,
+        "sentence_count": 7,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "Physical examination disclosed a distinctive facial gestalt with features and signs that remained unchanged over the time, including synophrys, highly arched and sparse broad eyebrows, long eyelashes, low-set and posteriorly rotated ears with uplifted lobe, broad nasal tip, smooth philtrum, thin and everted upper lip vermilion, downturned corners of the mouth, widely spaced teeth, and chin with horizontal crease (Figure 1). Metabolic screening, including urine determination of glycosaminoglycans and screening for inborn errors of amino acid metabolism, were normal. Genetic analyses, including karyotype, high resolution CGH-array (44K; Agilent Technologies, Waldbronn, Germany), and epilepsy- and cohesinopathy-related gene panels testing (Supporting Information File S1) were negative. WES workflow and analysis were performed as detailed reported in the supplemental methods.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "2 | CASE REPORT",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "2 | CASE REPORT"
+        ],
+        "char_count": 884,
+        "sentence_count": 4,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "Written informed consents for the use of photographs and research findings were obtained from the family. Data analysis, variant filtering and prioritization allowed to identify the de novo missense variant, c.631G]A (p.Glu211Lys) in exon 6 of PACS2 (NM_001100913.2) as the molecular event underlying the condition. De novo occurrence of this missense change was confirmed by Sanger sequencing (Figure 2). The variant was private, being not reported in ExAC, ClinVar, and in-house databases. The affected residue, Glu211, is conserved in PACS2 orthologs and its paralog, PACS1 (Figure 2).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "3 | RESULTS",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "3 | RESULTS"
+        ],
+        "char_count": 588,
+        "sentence_count": 5,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "Recently, a recurrent de novo missense variant, c.625G]A (p.Glu209Lys) in PACS2 was reported in 14 unrelated individuals with epilepsy, developmental delay, cerebellar dysgenesis and dysmorphisms. Here, we report on an additional patient with a different de novo PACS2 mutation, and revise the phenotype associated with this PACS2 mutation (Table 1). Differential diagnosis of cerebellar dysgenesis includes disorders associated with OPHN1 and GNAO1 mutations (MIM #300486 and MIM #617493).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 490,
+        "sentence_count": 3,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "PACS2 is a multifunctional protein mainly expressed in the brain, including cerebellum (GTEx, https://gtexportal.org/home/, and FANTOM5, http://fantom.gsc.riken.jp/5/index.html), that acts as a traffic modulator by controlling the endoplasmic reticulummitochondrial communication, with nuclear gene expression. 12 Olson et al suggested that the disease-causing p.Glu209Lys substitution alters the ability of the autoregulatory domain to modulate the interaction of PACS2 with client proteins participating in processes related to neuronal development and function. 11 Of note, the Glu211 is located within the autoregulatory domain of PACS2 and is close to the residue that was previously reported to be invariantly affected in the disorder. 11 Our finding further confirms the relevance of this region in the control of PACS2 function (Figure 2).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 2,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 847,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "The clinical characteristics of the affected individuals carrying the recurrent p.Glu209Lys mutation, included neonatal/earlyinfantile onset epilepsy, global developmental delay with or without autism, cerebellar dysgenesis and facial dysmorphisms. In the majority of these individuals, facial features suggested no specific diagnosis prior to WES. Major craniofacial findings included <!-- image --] DENTICI ET AL. WILEY 1390004, 2019, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/cge.13516 by NHS Education for Scotland NES, Edinburgh Central Office, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed FIGURE 1 Clinical features of the patient with the novel de novo c.631G]A change in PACS2. Patient at age 5 years (A) and at 7 years and 6 months (B,C).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 3,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 912,
+        "sentence_count": 6,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "Facial dysmorphisms, including synophrys, highly arched and sparse broad eyebrows, long eyelashes, low-set and posteriorly rotated ears with uplifted lobe, broad nasal tip, smooth philtrum, thin and everted upper lip vermilion, downturned corners of the mouth, widely spaced teeth, chin with horizontal crease. Brain MRI at 3 years and 10 months (D-G). Abnormal cerebellar foliation pattern along the basal and posterior portions of the right cerebellum hemisphere (F-G), a quantitative reduction of the white matter of the parietal regions (E).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 3,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 545,
+        "sentence_count": 3,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "Lateral ventricular asymmetry is evident, with the right ventricle larger than the left (D) [Colour figure can be viewed at wileyonlinelibrary.com] CLINICAL GENETICS (C) (D) (E) (G) synophrys, hypertelorism, downslanting palpebral fissures, bulbous nasal tip, wide mouth with downturned corners, and thin upper lip. 11 Similar features also occurred in the present patient, who showed synophrys, highly arched and sparse broad eyebrows, long eyelashes, smooth philtrum, thin everted upper lip vermilion, reminiscent of the Cornelia de Lange facial gestalt. Of note, while this disorder was not clinically hypothesized by Olsen et al, 11 it was originally suspected in one of the two first patients affected by Schuurs-Hoeijmakers syndrome, in which WES disclosed a missense mutation in its paralog, PACS1. This argues for a partial overlap of facial features of PACS -related disorders with Cornelia de Lange syndrome.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 3,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 918,
+        "sentence_count": 3,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "Analysis of the clinical information available for the previously reported subjects with PACS2 mutation indicate that growth parameters FIGURE 2 Genomic organization of PACS2 and localization of the disease-causing mutation c.631G]A in exon 6 (NM_001100913.2). Domain structure of PACS2: FBR, furin (cargo)-binding region; candidate autoregulatory domain; MR, middle region; CTR, C-terminal region. Location of the two disease-causing missense mutations is shown. Electropherogram of the patient and his parents showing the de novo mutation c.631G]A change. Multiple alignments of PACS2 ortholog and paralogs.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 3,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 609,
+        "sentence_count": 5,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "The candidate autoregulatory domain protein sequence of PACS2 is boxed [Colour figure can be viewed at wileyonlinelibrary.com] PACS2 NM_001100913.2 6 7 10 11 2122 2324 Mother Father FBR CTR p.E211K c.631G]A p.E209K Glu Gln Glu Lys Ala Ser PACS1 H.sapiens NP_060496.2 PACS2 H.sapiens NP_056012.2 P.troglodytes XP_003952656.1 M.Mulatta XP_002805274.1 C.lupus XP_005623950.1 B.taurus XP_002696841.2 M.musculus NP_001074639.1 R.norvegicus XP_006240730.1 G.gallus XP_422219.3 D.rerio NP_001116223.1 D.melanogaster NP_732935.2 A.Gambiae XP_003436438.1 X.tropicalis XP_002939593.1 candidate autoregulatory domain PACS2 exon 6 Proband Glu Gln Glu Ala Ser c.631G]A E209 E211 PDIDNYSEEEEESFSSE JQEGSDDP KSTDNYSEEEYESFSSEQEASDDA KSTDNYSEEEYESFSSEQEASDDA KSTDNYSEEEYESFSSEQEASDDA KSTENYSEEEYESFSSEQEASDDA KSTDNYSEEEYESFSSEQEASDDA KSTDNYSEEEYESFSSEQEASDDA KSTDNYSEEEYESFSSEQEASDDA KCSDNYSEEEYESFSSEQEASDDA DRVAEYSDEDEEAEFSSGEFNDEA RVNEYSDEDEEQEFSSGDENDEG KSTDNYSEEEYESESSEQEASDDA <!-- image --] <!-- image --] <!-- image --] DENTICI ET AL. 1390004, 2019, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/cge.13516 by NHS Education for Scotland NES, Edinburgh Central Office, Wiley Online Library on [27/06/2025].",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 3,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 1213,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 3,
+        "current_heading": "4 | DISCUSSION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "4 | DISCUSSION"
+        ],
+        "char_count": 150,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "| Our patient       | M 38   |                                       | 3040 49                 | 35.5 - 3.20   | SD/7 y GHD                  | Yes Yes Yes             |                         | Yes Yes                   | Yes                       |                            | No                         | Yes                 | Yes                            | No No          | No No                                  |                                   | No          | 24 mo                              | Yes Moderate       |\n|-------------------|--------|---------------------------------------|-------------------------|---------------|-----------------------------|-------------------------|-------------------------|---------------------------|---------------------------|----------------------------|----------------------------|---------------------|--------------------------------|----------------|----------------------------------------|-----------------------------------|-------------|------------------------------------|--------------------|\n| P14               | F 39   | +0.6                                  | +0.9SD                  | - 0-1SD       | NR/5.5 y                    | No No                   | No                      | Yes Yes                   |                           | No                         | No                         | No                  | Yes                            | No No          | STPC, V- clinodactyly                  | NA                                |             | 36 mo                              | Yes Mild           |\n| P13               | F 33   | - 0.5                                 | Median                  | median        | NR/3.5 y                    | No Yes                  | Yes                     | Yes                       | Yes                       | Yes                        | NA                         | NA                  | Yes                            | No No          | No                                     | NA                                |             | 36 mo                              | Yes Mild           |\n| P12               | F 34   | +0.5                                  | - 1.5SD                 | NA            | y NR/9 mo                   | No Yes                  | No                      | Yes                       | Yes                       | Yes                        | NA                         | NA                  | No                             | No No          | No                                     | V-clinodactyly                    | NA          | NA                                 | NA Yes             |\n| P11               | M 39.5 | Median                                | - 1SD                   | median        | Normal/12.5                 | dysmorphic No No        | No                      | Yes                       | Yes                       | Yes                        | No                         | Yes                 | No                             | No No          | No                                     | V-finger brachy/ clinodactyly     | NA          | 24 mo                              | Yes Yes            |\n| P10               | M term | NA                                    | NA                      | NA            | NR/7 y                      | Mildly;                 |                         |                           |                           |                            |                            |                     |                                | No No          | No                                     | Bilateral STPC                    | NA          | 24 mo                              | Yes Yes            |\n| P9                | F term | Median                                | - 2SD                   | median        | NR/3 y                      | Yes No                  | No                      | Yes                       | Yes                       | No                         | No                         | No                  | No                             | No No          | No                                     | No                                | NA          | Not walking                        | Yes Yes            |\n| P8                | F 37   | - 3SD                                 | - 1.5SD                 | - 2.3 SD      | mo NR/5 y                   | No Yes                  | Yes                     | Yes                       | Yes                       | Yes                        | No                         | No                  | No                             | No No          | No                                     | No                                | NA          | 27 mo                              | Yes Yes            |\n| P7                | M term | +1SD                                  | +1SD                    | median        | Normal/16                   | No No                   | Yes                     | Yes                       | No                        | No                         | NA                         | NA                  | No                             | No No          | Cryptor- chidism                       | No                                | Anaemia     | Not walking                        | Yes Mild           |\n| P6                | M 40   | +2.5SD                                | +2 SD                   | ]3SD          | NR/8 y                      | No No                   | Yes                     | No                        | Yes                       | No                         | No                         | No                  | Yes                            | VSD SB, myopia | Testis ectopia Finger pads             |                                   | NA          | 22 mo                              | Yes Yes            |\n| P5                | M 37   | - 1.7                                 | - 0.9 SD                | - 2.3 SD      | Height, - 1.8SD/19 mo       | No No                   | No                      | Yes                       | Yes                       | Yes/No                     | NA                         | NA                  | No                             | VSD SB, myopia | V-clinodactyly, STPC                   | Anaemia                           |             | 18 mo                              | Yes Yes            |\n| P4                | F 35   | +1.8                                  | NA                      | NA            | y Normal/8 y                | Yes Yes                 | Yes                     | Yes                       | Yes                       | Yes                        | Yes                        | No                  | No                             | VSD SB, myopia | No                                     | Anaemia                           |             | 18 mo                              | Yes Yes            |\n| P3                | M 38   | +2                                    | NA                      | NA            | Normal/15                   | Yes Yes                 | Yes                     | No                        | Yes Yes                   |                            | Yes                        | Yes                 | Yes                            | VSD SB, myopia | Cryptor- chidism 2 - 3 toes syndactyly |                                   | NA          | 18 mo                              | Yes Yes            |\n| P2                | F 37   |                                       | Median NA               | NA            | NR/4 y                      | Yes Yes                 | Yes                     | Yes                       | Yes Yes                   |                            | No                         | No                  | No                             | DC No          | Cryptor- chidism 2 - 3 toes syndactyly | No                                | Anaemia     | NA                                 | Yes Yes            |\n| Olson et al 11 P1 | F      | 38                                    | - 0.3 + 0.6 SD          | + 0.4 SD      | Normal/16 y                 | Yes Yes                 | Yes                     | No                        | Yes                       | Yes                        | Yes                        | Yes                 | Yes                            | DC No          | Cryptor- chidism 2 - 3 toes syndactyly | Metatarsus varus, slender fingers | NA          | 22 mo                              | Yes Yes            |\n| Clinical features | Sex    | Gestational age (wk) Birth parameters | Weight (SD) Length (SD) | OFC (SD)      | Growth at last evaluation/y | Synophrys Hypertelorism | Down slanting palpebral | fissures Broad nasal root | Thin Vermillion upper lip | Wide mouth with downturned | corners Prominent incisors | Widely spaced teeth | Everted vermilion of lower lip | DC No          | Cryptor- chidism 2 - 3 toes syndactyly | anomalies                         | Hematologic | Developmental features Walking age | Speech delay DD/ID | <!-- image --] DENTICI ET AL. 1390004, 2019, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/cge.13516 by NHS Education for Scotland NES, Edinburgh Central Office, Wiley Online Library on [27/06/2025].",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 4,
+        "current_heading": "TABLE 1 Clinical features of individuals with PACS2 p.Glu209Lys and our proband with a novel de novo missense mutation p.Glu211Lys",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1 Clinical features of individuals with PACS2 p.Glu209Lys and our proband with a novel de novo missense mutation p.Glu211Lys",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1 Clinical features of individuals with PACS2 p.Glu209Lys and our proband with a novel de novo missense mutation p.Glu211Lys"
+        ],
+        "char_count": 9226,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 4,
+        "current_heading": "TABLE 1 Clinical features of individuals with PACS2 p.Glu209Lys and our proband with a novel de novo missense mutation p.Glu211Lys",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1 Clinical features of individuals with PACS2 p.Glu209Lys and our proband with a novel de novo missense mutation p.Glu211Lys",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1 Clinical features of individuals with PACS2 p.Glu209Lys and our proband with a novel de novo missense mutation p.Glu211Lys"
+        ],
+        "char_count": 150,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "Brain MRI (age)",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 5,
+        "current_heading": "TABLE 1 (Continued)",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1 (Continued)",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1 (Continued)"
+        ],
+        "char_count": 15,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "| Our patient       | No           | No                  |              | Transient hyperactivity   | 3 d Focal neonatal epilepsy stopped at 13 mo                      | 6 y Focal neonatal epilepsy; 3 y sporadic focal anomalies; at 7 y: normal                                                                            |\n|-------------------|--------------|---------------------|--------------|---------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| P14               | diffuse      | No                  | No           | Selective mutism          | 3 d Tonic, later tonic or GTCs                                    | NA MF high spikes at Neonatal: excessive L and R central and temporal waves; 3 y: mild generalized slowing, frequent Left temporal epileptiform      |\n| P13               | axial        | No                  | Yes          | No                        | 2 wk Focal tonic-clonic, later focal or generalized               | NA 6 d: normal; neonatal/ infantile: epileptiform activity, amplitude slow bilateral temporal; 17 mo: diphasic spikes vertex                         |\n| P12               | Yes          | No                  | transient    | No                        | 3 d Focal tonic-clonic and tonic; status epilepticus              | NA Neonatal: excess MF spikes and sharp waves, 2 mo: background; poorly organized; high amplitude; background, lack of state change, MF spikes       |\n| P11               | No           | transient           | No           | Autism spectrum disorder  | 1 d Focal (stopped at 2 mo), later GTCs                           | NA Neonatal: epileptic discharges, Lrolandic region                                                                                                  |\n| P10               | diffuse      | No                  | Yes          | Autism spectrum disorder  | 1-2 mo Clonic seizure with eye deviation, later GTC               | 2 y 4 months: normal; 17 months: rare generalized spikes                                                                                             |\n| P9                | diffuse      | No                  | Yes          | Atypical social           | 2 d Focal, tonic-clonic and myoclonic, later GTCs and generalized | tonic 2 y and temporal Neonatal: excess discontinuity, excess MF sharp waves; 2 y: intermittent generalized slowing, intermittent L temporal slowing |\n| P8                | No           | No                  | No           | Atypical social           | 2 wk stiffening Focal, later tonic                                | 2 y 6 wk: subtle aberration; R fronto- central L                                                                                                     |\n| P7                | axial        | No                  | No           | NO                        | 2 d Focal with tonic and autonomic features, later clonic         | NA 6 - 7 wk: MF epileptiform activity; 9 mo: normal                                                                                                  |\n| P6                | no           | No                  | Yes          | COD                       | 2 d NA                                                            | 3 mo Neonatal: left temporal spikes; 3.5 year: left paroxysmal temporal rolandic spikes, generalized slowing                                         |\n| P5                | No           | Yes                 | No           | No                        | 2 d Clonic and GTC                                                | 9 mo waves/ 4 mo: generalized slowing with MF sharp waves and frequent focal seizures                                                                |\n| P4                | NA           | No                  | No           | Mild autistic             | 7 d GTCs                                                          | 2 y a Neonatal excess multifocal sharp generalized bursts epileptic activity                                                                         |\n| P3                | NA           | No                  | No           | No                        | 4 d NA                                                            | NA NA                                                                                                                                                |\n| P2                | NA           | Yes                 | transient    | Yes                       | 4 d GTCs                                                          | 6 mo Neonatal to 3.5 mo: normal background; 1 y: normal                                                                                              |\n| Olson et al P1    | Yes          | No                  | No           | No                        | 6 d Focal                                                         | NA NA                                                                                                                                                |\n| Clinical features | Neurological | Hypotonia Nystagmus | Stereotypies | Behavioural features      | Epilepsy Age of onset (d) Seizure types                           | Age at last seizure EEG features                                                                                                                     |\n| Abnormal                   | cerebellar foliation orientation of the right cerebellum hemisphere.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 5,
+        "current_heading": "TABLE 1 (Continued)",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1 (Continued)",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1 (Continued)"
+        ],
+        "char_count": 5556,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "Iso-liquoral cyst on the right lateral ventricle                                             |\n|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Mild scattered             | subarachnoid haemorrhage (2 mo); Prominent MCMand patulous foramen Magendie with subtle foilar distortion (31 mo)                                                 |\n| Moderate                   | cerebellar foliar distortion (23 mo)                                                                                                                              |\n| MCM, severe                | foliar distortion with centrifugal orientation (3 mo)                                                                                                             |\n| Thick                      | corpus callosum, inferior vermian hypoplasia a (12.5 y)                                                                                                           |\n| Mega cisterna              | magna, patulous foramen Magendie (1 mo)                                                                                                                           |\n| Mega cisterna              | magna and patulous foramen Magendie, subtle cerebellar foliar distortion hypothalamic fusion anomaly (1 wk)                                                       |\n| Normal a (10 d); IVH, left | normal a (4 mo) retrocerebellar cyst, causing distortion of the smaller left cerebellar hemisphere and thinning of the overlying bones a (2 mo)                   |\n| Retrocerebellar            | arachnoidal cyst, IVH with prominent foramen Magendie, MCM, severe foliar cerebellum distortion with centrifugal orientation, hypothalamic fusion anomaly (7 d)   |\n| Mild IVH with a            | patulous foramen Magendie and mega cisterna magna, mild distortion of the cerebellar folia (3 wk)                                                                 |\n| Increased                  | suba- rachnoid spaces                                                                                                                                             |\n| IVH with                   | prominent foramen Magendie and cisterna magna, severe foliar distortion of cerebellar hemispheres with centrifugal orientation, hypothalamic fusion anomaly (5 y) |\n| Foliar                     | distortion of the left cerebellar hemisphere, MCM a (5 y)                                                                                                         | <!-- image --] DENTICI ET AL. 1390004, 2019, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/cge.13516 by NHS Education for Scotland NES, Edinburgh Central Office, Wiley Online Library on [27/06/2025].",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 5,
+        "current_heading": "TABLE 1 (Continued)",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1 (Continued)",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1 (Continued)"
+        ],
+        "char_count": 2846,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed (Continued)",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 5,
+        "current_heading": "TABLE 1 (Continued)",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1 (Continued)",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1 (Continued)"
+        ],
+        "char_count": 162,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "Abbreviations: ASD, atrial septal defect; CHI, conductive hearing impairment; CPP, central precocious puberty; DC, dextrocardia; EEG, electroencephalogram; F, female; IVH, inferior vermian hypoplasia; m, median; M, male; MCM, mega cisterna magna; MF, multifocal; NA, not available; OCD, obsessive compulsive disorder; SB, strabismus; STPC, single transverse palmar crease; VSD, ventricular septal defect. a Immediate recurrence after withdrawal of valproate. Clinical features Olson et al Our patient P10 P11 P12 P13 P14 Additional clinical features Neutropenia 1mc cafè au lait spots, poor feeding, CHI None Dysphasia, accessory nipples None Hypertrophic pyloric stenosis, velopharyngeal hypotonia Brachycephaly, inverted nipples Sacral pit appear generally within normal ranges prenatally, as well as postnatally, notwithstanding the limited availability of data. By contrast, the present patient presented with postnatal growth delay that became evident at age 5, when GH treatment was started.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "TABLE 1",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1"
+        ],
+        "char_count": 997,
+        "sentence_count": 3,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "WES analysis did not reveal any putative functionally relevant variant linked to processes controlling growth, suggesting that postnatal growth failure may represent part of the phenotypic spectrum of this disorder. Six of 15 individuals, including the present case, were reported to have epilepsy. While details on the nature of epilepsy in this cohort are limited, it appears to have generally a neonatal/early-infantile onset, with 12/14 of cases having seizures during the first week of life, and often challenging to control in infancy. Consistently, our patient epilepsy manifested at 3 days of life and it was difficult to control in the first 30 days, which however was followed by a seizurefree period that still persists until now, even after the discontinuation of treatment.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "TABLE 1",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1"
+        ],
+        "char_count": 786,
+        "sentence_count": 4,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "CNS malformations appear to be a recurrent feature of subjects with PACS2 mutations, described in 12/14 individuals, 10/14 of which presenting with cerebellar involvement. 11 In the present case, abnormal cerebellar foliation orientation along the basal and posterior portions of the right cerebellum hemisphere was found, together with a quantitative reduction of the white matter of the parietal region and lateral ventricular asymmetry. Other defects are less common, including congenital heart disease (3/15 patients), ocular abnormalities with myopia and strabismus, and mild distal limb anomalies, including fifth finger brachyclinodactyly. In conclusion, the present patient confirms that de novo PACS2 mutations underlie a complex disorder characterized by developmental and epileptic encephalopathy with mild to moderate ID, variable CNS malformations with cerebellar dysgenesis, and facial dysmorphism. Reduced postnatal growth with GH deficiency could be an additional feature.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "TABLE 1",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1"
+        ],
+        "char_count": 988,
+        "sentence_count": 4,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "Further studies are required for delineating the natural history of this newly recognized syndrome.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "TABLE 1",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": "TABLE 1",
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "TABLE 1"
+        ],
+        "char_count": 99,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "We are grateful to the family for participating in this study. This work was partly supported by Fondazione Bambino Gesù (Vite Coraggiose to B.D. and M.T.) and the Italian Ministry of Health (Ricerca Corrente 2018 to M.L.D., A.C. and M.T.).",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "ACKNOWLEDGEMENTS",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "ACKNOWLEDGEMENTS"
+        ],
+        "char_count": 240,
+        "sentence_count": 2,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "The authors declare no conflicts of interest.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "CONFLICTS OF INTEREST",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "CONFLICTS OF INTEREST"
+        ],
+        "char_count": 45,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "The study follows the principles outlined in the Helsinki Declaration and the patient's family gave written informed consent for molecular study and publication.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "Ethics approval",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "Ethics approval"
+        ],
+        "char_count": 161,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "| Our patient   |            |                                               |\n|---------------|------------|-----------------------------------------------|\n| P14           |            |                                               |\n| P13           |            | Sacral pit                                    |\n| P12           |            | Brachycephaly, inverted nipples               |\n| P11           |            | Hypertrophic pyloric stenosis, velopharyngeal |\n| P10           |            | None                                          |\n| P9            |            | Dysphasia, accessory nipples                  |\n| P8            |            | None                                          |\n| P7            |            | 1mc cafè au lait spots, poor feeding, CHI     |\n| P6            |            |                                               |\n| P5            |            |                                               |\n| P4            |            |                                               |\n| P3            |            |                                               |\n| P2            |            |                                               |\n| P1            | features   | Neutropenia                                   |\n| features      | clinical   |                                               |\n| Clinical      | Additional |                                               |\n| Maria L. Dentici https://orcid.org/0000-0002-9505-5906   |\n|----------------------------------------------------------|\n| Marcello Niceta https://orcid.org/0000-0003-4766-7753    |\n| Maria C. Digilio https://orcid.org/0000-0002-0205-9634   | <!-- image --> <!-- image --> <!-- image --> <!-- image --> <!-- image --> DENTICI ET AL.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 6,
+        "current_heading": "ORCID",
+        "current_subheading": null,
+        "is_table": true,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "ORCID"
+        ],
+        "char_count": 1755,
+        "sentence_count": 1,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "Martin HC, Kim GE, Pagnamenta AT, et al. Clinical whole-genome sequencing in severe early-onset epilepsy reveals new genes and improves molecular diagnosis. Hum Mol Genet . 2014;23:32003211. Hamdan FF, Srour M, Capo-Chichi JM, et al. De novo mutations in moderate or severe intellectual disability. PLoS Genet . 2014;10: e1004772. von Deimling M, Helbig I, Marsh ED. Epileptic encephalopathiesclinical syndromes and pathophysiological concepts. Curr Neurol Neurosci Rep . 2017;17(2):10. Hamdan FF, Myers CT, Cossette P, et al. High rate of recurrent de novo mutations in developmental and epileptic encephalopathies. Am J Hum Genet . 2017;101:664-685. Scheffer IE, Berkovic S, Capovilla G, et al. ILAE classification of the epilepsies: Position paper of the ILAE Commission for Classification and Terminology. Epilepsia . 2017;58:512-521. Lelieveld SH, Wiel L, Venselaar H, et al. Spatial clustering of de novo missense mutations identifies candidate neurodevelopmental disorderassociated genes.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 7,
+        "current_heading": "REFERENCES",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "REFERENCES"
+        ],
+        "char_count": 995,
+        "sentence_count": 15,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "Am J Hum Genet . 2017;101:478-484. Schuurs-Hoeijmakers JH, Oh EC, Vissers LE, et al. Recurrent de novo mutations in PACS1 cause defective cranial-neural-crest migration and define a recognizable intellectual-disability syndrome. Am J Hum Genet . 2012;91:1122-1127. Miyake N, Ozasa S, Mabe H, et al. A novel missense mutation affecting the same amino acid as the recurrent PACS1 mutation in SchuursHoeijmakers syndrome. Clin Genet . 2018;93(4):929-930. Schuurs-Hoeijmakers JH, Landsverk ML, Foulds N, et al. Clinical delineation of the PACS1-related syndrome -Report on 19 patients. Am J Med Genet A . 2016;170:670-675. Martinez-Monseny A, Bolasell M, Arjona C, et al. Mutation of PACS1: the milder end of the spectrum. Clin Dysmorphol . 2018;4:148-150. Olson HE, Jean-Marçais N, Yang E, et al. A recurrent de novo PACS2 heterozygous missense variant causes neonatal-onset developmental epileptic encephalopathy, facial dysmorphism, and cerebellar dysgenesis. Am J Hum Genet . 2018;102:995-1007.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 7,
+        "current_heading": "REFERENCES",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "REFERENCES"
+        ],
+        "char_count": 994,
+        "sentence_count": 16,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "Thomas G, Aslan JE, Thomas L, Shinde P, Shinde U, Simmen T. Caught in the act -protein adaptation and the expanding roles of the PACS proteins in tissue homeostasis and disease. J Cell Sci . 2017;130:18651876.",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 7,
+        "current_heading": "REFERENCES",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "REFERENCES"
+        ],
+        "char_count": 209,
+        "sentence_count": 2,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "Additional supporting information may be found online in the Supporting Information section at the end of the article. How to cite this article: Dentici ML, Barresi S, Niceta M, et al. Expanding the clinical spectrum associated with PACS2 mutations. Clin Genet . 2019;95:525 -531. https://doi.org/10. 1111/cge.13516 13990004, 2019, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/cge.13516 by NHS Education for Scotland NES, Edinburgh Central Office, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License <!-- image --]",
+      "metadata": {
+        "pdf_name": "Dentici.pdf",
+        "title": "Expanding the clinical spectrum associated with PACS2 mutations",
+        "authors": [
+          "Maria L. Dentici",
+          "Sabina Barresi",
+          "Marcello Niceta",
+          "Andrea Ciolfi",
+          "Marina Trivisano",
+          "Andrea Bartuli",
+          "Maria C. Digilio",
+          "Nicola Specchio",
+          "Bruno Dallapiccola",
+          "Marco Tartaglia"
+        ],
+        "page_number": 7,
+        "current_heading": "SUPPORTING INFORMATION",
+        "current_subheading": null,
+        "is_table": false,
+        "table_title": null,
+        "section_hierarchy": [
+          "S H O R T R E P O R T",
+          "SUPPORTING INFORMATION"
+        ],
+        "char_count": 712,
+        "sentence_count": 5,
+        "mod_date": "2025-06-27T11:09:56"
+      }
+    }
+  ]
+}
